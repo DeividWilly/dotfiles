@@ -1,0 +1,1 @@
+/home/willy/.config/suckless/dwm/config.h
