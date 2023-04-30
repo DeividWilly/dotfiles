@@ -1,0 +1,25 @@
+# Aumentar volume
+F8
+	/home/willy/Scripts/set+vol.sh
+# Diminuir volume
+F7
+	/home/willy/Scripts/set-vol.sh
+# Mute/Unmute
+F6
+	amixer sset Master toggle
+# Restart sxhkd
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# Change other wallpaper
+F1
+  python3 /home/willy/Scripts/cw.py
+
+# ================================ ALTERNATIVE KEYS FOR APPS ==========================================
+
+# Thunderbird
+super + t
+	~/Apps/Thunderbird-102.8_20230214184313.AppImage
+# Discord
+super + d
+	~/Apps/Discord-0.0.26-x86_64.AppImage
