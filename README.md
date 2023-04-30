@@ -1,8 +1,8 @@
 # Arch Linux dotfiles #
 ## [DWM - Dynamic Window Manager](https://dwm.suckless.org) ##
-<img align="right" src="assets/imgs/simple_print.png" alt="home desktop" width="363px"/>
+<img align="right" src="assets/imgs/dual.png" alt="home desktop" width="363px"/>
 
-<img align="right" src="assets/imgs/print.png" alt="Rice Screenshot" width="363px" />
+
 
 ```py
 me = {
