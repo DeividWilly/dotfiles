@@ -1,0 +1,4 @@
+usage=$(vmstat 1 2 | tail -1 | awk '{print $15}')
+percentage=$[(100-$usage)]
+echo "$percentage%"
+#echo "CPU Usage: "$[100-$(vmstat 1 2|tail -1|awk '{print $15}')]"%"
