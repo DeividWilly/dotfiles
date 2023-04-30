@@ -28,9 +28,9 @@ me = {
 
 ```
 
-## Files Scheme Tree 🌳##
+## Files Scheme Tree ##
 ```py
-.config
+ .config
 ├── dunst
 │  └── dunstrc
 ├── kitty
