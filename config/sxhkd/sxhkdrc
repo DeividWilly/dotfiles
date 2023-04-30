@@ -1,6 +1,0 @@
-# Aumentar volume
-F8
-	amixer sset Master 1%+
-# Diminuir volume
-F7
-	amixer sset Master 1%-
