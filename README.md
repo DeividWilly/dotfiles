@@ -30,7 +30,7 @@ me = {
 
 ## Files Scheme Tree ##
 ```py
- .config
+ .config
 ├── dunst
 │  └── dunstrc
 ├── kitty
