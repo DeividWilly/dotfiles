@@ -30,7 +30,6 @@ me = {
 
 ## Files Scheme Tree ##
 ```py
-
 .config
 ├── dunst
 │  └── dunstrc
@@ -48,33 +47,10 @@ me = {
 │  └── dwm
 │     ├── config.def.h
 │     ├── config.h
-│     ├── config.mk
-│     ├── drw.c
-│     ├── drw.h
-│     ├── drw.o
-│     ├── dwm
-│     ├── dwm.1
 │     ├── dwm.c
-│     ├── dwm.o
-│     ├── dwm.png
-│     ├── dwmblocks
-│     │  ├── blocks.def.h
-│     │  ├── blocks.h
-│     │  ├── dwmblocks
-│     │  ├── dwmblocks.c
-│     │  ├── LICENSE
-│     │  ├── Makefile
-│     │  └── README.md
-│     ├── LICENSE
-│     ├── Makefile
-│     ├── patchs
-│     │  ├── dwm-alwayscenter-20200625-f04cac6.diff
-│     │  └── dwm-autostart-20210120-cb3f58a.diff
-│     ├── README
-│     ├── transient.c
-│     ├── util.c
-│     ├── util.h
-│     └── util.o
+│     └── dwmblocks
+│        ├── blocks.def.h
+│        └── blocks.h
 ├── sxhkd
 │  └── sxhkdrc
 └── termite
@@ -101,4 +77,5 @@ Scripts
 ├── set+vol.sh
 ├── set-vol.sh
 └── temp.sh
+
 ```
