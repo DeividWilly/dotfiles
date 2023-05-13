@@ -1,19 +1,16 @@
-# Aumentar volume
-F8
+# Raise volume
+XF86AudioRaiseVolume
 	/home/willy/Scripts/set+vol.sh
-# Diminuir volume
-F7
+# Lower volume
+XF86AudioLowerVolume
 	/home/willy/Scripts/set-vol.sh
 # Mute/Unmute
-F6
-	amixer sset Master toggle
+XF86AudioMute
+	python3 /home/willy/Scripts/mute.py
 # Restart sxhkd
 super + Escape
 	pkill -USR1 -x sxhkd
 
-# Change other wallpaper
-F1
-  python3 /home/willy/Scripts/cw.py
 
 # ================================ ALTERNATIVE KEYS FOR APPS ==========================================
 
@@ -23,3 +20,6 @@ super + t
 # Discord
 super + d
 	~/Apps/Discord-0.0.26-x86_64.AppImage
+# Bitwarden
+super + b
+    ~/Apps/Bitwarden-2023.4.0-x86_64.AppImage
