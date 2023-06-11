@@ -11,6 +11,9 @@ XF86AudioMute
 super + Escape
 	pkill -USR1 -x sxhkd
 
+# TEST
+alt + 1
+		notify-send "Hello"
 
 # ================================ ALTERNATIVE KEYS FOR APPS ==========================================
 

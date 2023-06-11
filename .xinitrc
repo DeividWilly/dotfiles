@@ -48,5 +48,5 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-feh --bg-scale /home/willy/Medias/Pictures/wallpapers/1684148.jpg
+feh --bg-scale /home/willy/Medias/Pictures/Wallpapers/wallhaven-p9jx2e.png
 exec dwm
