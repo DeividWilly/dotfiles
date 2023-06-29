@@ -15,6 +15,7 @@ static const Block blocks[] = {
 	{" ", 		"python3 ~/Scripts/date.py",			             1,		      	    0},
 
 	{"",        "python3 ~/Scripts/connection.py",           1,                 0},
+  {"",        "~/Teste/script.sh",  1, 0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
