@@ -77,7 +77,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
-export PATH="$PATH:/home/willy/.local/bin:/home/willy/.cargo/bin:"
+export PATH="$PATH:/usr/lib/jvm/java-17-openjdk/bin:/home/willy/.local/bin:/home/willy/.cargo/bin:"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8

@@ -1,4 +1,7 @@
 [colors]
 foreground = #dcdccc
 #background  = #000000
-background = rgba(0, 0, 0, 0.7)
+background = rgba(0, 0, 0, 0.5)
+
+[options]
+font = Inconsolata Nerd Font 15
