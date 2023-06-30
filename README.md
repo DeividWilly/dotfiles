@@ -1,6 +1,6 @@
 # Arch Linux dotfiles #
 ## [DWM - Dynamic Window Manager](https://dwm.suckless.org) ##
-<img align="right" src="assets/imgs/dual.png" alt="home desktop" width="363px"/>
+<img align="right" src="assets/imgs/photo_2023-06-29_21-46-13.jpg" alt="home desktop" width="363px"/>
 
 
 
@@ -14,7 +14,7 @@ me = {
     ProcessViewer: 'htop',
 
     Music: 'spotifyd + spotify-tui',
-    Compositor: 'picom',
+    Compositor: 'picom-ibhagwan',
     Notify: 'dunst',
     ImageViewer: 'kitty icat',
     MediaPlayer: 'VLC',
